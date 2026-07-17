@@ -1,0 +1,6 @@
+{
+  "name": "DIchat",
+  "description": "An open-source secure enterprise messenger with secure calls, shared files, E2EE, and centralized admin room management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
